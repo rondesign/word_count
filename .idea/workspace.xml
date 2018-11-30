@@ -30,18 +30,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wordcount/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wordcount/views.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -56,6 +44,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -63,12 +54,13 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="103" />
-    <option name="y" value="36" />
-    <option name="width" value="1327" />
-    <option name="height" value="1033" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="277" />
+    <option name="y" value="104" />
+    <option name="width" value="1485" />
+    <option name="height" value="818" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -153,12 +145,12 @@
       <workItem from="1543534544255" duration="1107000" />
       <workItem from="1543535770264" duration="100000" />
       <workItem from="1543535882249" duration="187000" />
-      <workItem from="1543536080363" duration="820000" />
+      <workItem from="1543536080363" duration="2561000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2214000" />
+    <option name="totallyTimeSpent" value="3955000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -170,10 +162,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="103" y="36" width="1327" height="1033" extended-state="0" />
-    <editor active="true" />
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4994463" visible="true" weight="0.20862745" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4994463" visible="true" weight="0.10938367" />
       <window_info id="Structure" order="1" sideWeight="0.5005537" side_tool="true" weight="0.20862745" />
       <window_info id="Favorites" order="2" sideWeight="0.5007278" side_tool="true" weight="0.17431192" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -188,7 +179,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.32890365" />
-      <window_info anchor="bottom" x="257" y="448" width="1019" height="216" id="Terminal" order="12" visible="true" weight="0.27666667" />
+      <window_info active="true" anchor="bottom" x="257" y="448" width="1019" height="216" id="Terminal" order="12" visible="true" weight="0.27153763" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
